@@ -1,5 +1,7 @@
 1
 2
-feature1 feature1 continues.. feature1 my changes...
+feature1 feature1 continues... feature1 my changes...
+
+additinal work for feature1
 
 somebody's work on feature1
