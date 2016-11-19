@@ -3,3 +3,5 @@
 feature1 feature1 continues.. feature1 my changes...
 
 somebody's work on feature1
+
+add one more feature3
